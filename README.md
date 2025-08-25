@@ -16,7 +16,7 @@ hello jabascript
 ![Issues](https://img.shields.io/github/issues/PheakTra000/JavaScript)
 
 <!-- Stars -->
-![Stars](https://img.shields.io/github/stars/PheakTra000/JavaScript)
+![Stars](https://img.shields.io/github/stars/PheakTra000/JavaScript)    
 
 <!-- Forks -->
 ![Forks](https://img.shields.io/github/forks/PheakTra000/JavaScript)
